@@ -53,7 +53,7 @@ function getPlayerChoice(){
     }
 }
 
-
+//play 5 games
 function game(){
     let playerScore = 0;
     let ComputerScore = 0;
